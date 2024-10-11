@@ -1,0 +1,10 @@
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\bin\Debug\calculadoraWebService.exe.config
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\bin\Debug\calculadoraWebService.exe
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\bin\Debug\calculadoraWebService.pdb
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\obj\Debug\calculadoraWebService.csproj.AssemblyReference.cache
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\obj\Debug\calculadoraWebService.Form1.resources
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\obj\Debug\calculadoraWebService.Properties.Resources.resources
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\obj\Debug\calculadoraWebService.csproj.GenerateResource.cache
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\obj\Debug\calculadoraWebService.csproj.CoreCompileInputs.cache
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\obj\Debug\calculadoraWebService.exe
+C:\Users\ROTAX\source\repos\calculadoraWebService\calculadoraWebService\obj\Debug\calculadoraWebService.pdb
