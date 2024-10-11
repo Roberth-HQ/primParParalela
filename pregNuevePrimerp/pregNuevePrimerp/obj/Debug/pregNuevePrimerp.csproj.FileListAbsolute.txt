@@ -1,0 +1,10 @@
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\bin\Debug\pregNuevePrimerp.exe.config
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\bin\Debug\pregNuevePrimerp.exe
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\bin\Debug\pregNuevePrimerp.pdb
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\obj\Debug\pregNuevePrimerp.csproj.AssemblyReference.cache
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\obj\Debug\pregNuevePrimerp.Form1.resources
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\obj\Debug\pregNuevePrimerp.Properties.Resources.resources
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\obj\Debug\pregNuevePrimerp.csproj.GenerateResource.cache
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\obj\Debug\pregNuevePrimerp.csproj.CoreCompileInputs.cache
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\obj\Debug\pregNuevePrimerp.exe
+C:\Users\ROTAX\source\repos\pregNuevePrimerp\pregNuevePrimerp\obj\Debug\pregNuevePrimerp.pdb
