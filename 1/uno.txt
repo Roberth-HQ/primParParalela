@@ -1,0 +1,17 @@
+1     Describa de manera teórica los siguientes conceptos: SISD, SIMD, MISD y MIMD. Indique además que lenguajes aplican a estos.
+
+-Una instrucción, un dato (SISD)
+Computador secuencial que no explota el paralelismo en las instrucciones ni en flujos de datos. 
+Es la Arquitectura Von-Neumann. Un único procesador ejecuta un solo flujo de instrucciones para operar datos en una única memoria. Se ejecuta una única instrucción y un dato en cada ciclo de reloj.
+ Ejemplos de arquitecturas SISD son las máquinas con uni-procesador o monoprocesador.
+C, C++, Python, Java
+-Una instrucción, múltiples datos (SIMD)
+Todas las unidades ejecutan la misma instrucción sincronizadamente, pero con datos distintos. Es un computador que explota varios flujos de datos dentro de un único flujo de instrucciones 
+lenguajes de alto nivel como C con extensiones para SIMD (como SSE, AVX
+-Múltiples instrucciones, un dato (MISD)
+ múltiples flujos de instrucciones suele precisar de múltiples flujos de datos.
+se usa en situaciones de paralelismo redundante,donde se necesitan varios sistemas de respaldo en caso de que uno falle
+No hay lenguajes específicos ampliamente adoptados para esta arquitectura
+-Múltiples instrucciones, múltiples datos (MIMD)
+Varios procesadores autónomos que ejecutan simultáneamente instrucciones diferentes sobre datos diferentes. Los sistemas distribuidos suelen clasificarse como arquitecturas MIMD; bien sea explotando un único espacio compartido de memoria, o uno distribuido.
+Lenguajes como MPI (Message Passing Interface), OpenMP, y frameworks de programación paralela como Pthreads
